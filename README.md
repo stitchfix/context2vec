@@ -1,5 +1,7 @@
 ## Using Context2Vec
 
+Use Word2Vec on lists and sets
+
 Use like:
 
     from sphere.models.context2vec import ContextCorpus
